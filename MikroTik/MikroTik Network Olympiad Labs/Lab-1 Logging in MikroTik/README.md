@@ -8,8 +8,7 @@ Langkah-langkah:
 1). Hubungkan komputer ke router MikroTik menggunakan kabel LAN.
 2). Buka aplikasi WinBox.
 
-    <img width="120" height="120" alt="1745584261358" src="https://github.com/user-attachments/assets/15f513f3-7d3b-41b9-9413-
-   457f796c318a" />
+<img width="666" height="498" alt="1745584261358" src="https://github.com/user-attachments/assets/ad3d63aa-b631-4de0-a198-bc1a1784d39e" />
 <p align="center">   
 <img width="350 height="200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/288d9359-4e84-425e-ae1c-e39eb305d6a3" /></p>
 
