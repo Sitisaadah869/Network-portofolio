@@ -1,1 +1,1 @@
-
+MikroTik Academy adalah program pembelajaran jaringan komputer yang berfokus pada penggunaan serta konfigurasi perangkat MikroTik (RouterBoard).Adanya MikRotik Academy ini adalah untuk melakukan persiapan mengikuti ujian sertifikasi MTCNA (MikroTik Certified Network Associate).
