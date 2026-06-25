@@ -9,7 +9,7 @@ Langkah-langkah:
 
 2). Buka aplikasi WinBox.
 
-<img width="241" height="300" alt="winbox" src="https://github.com/user-attachments/assets/d086fa28-06c9-45a7-9da4-b77a7db539ab" />
+<img width="120" height="120" alt="winbox" src="https://github.com/user-attachments/assets/d086fa28-06c9-45a7-9da4-b77a7db539ab" />
 
 <p align="center">   
 <img width="350 height="200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/288d9359-4e84-425e-ae1c-e39eb305d6a3" /></p>
