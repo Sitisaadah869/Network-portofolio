@@ -8,7 +8,7 @@ Langkah-langkah:
 <p align="center">
 <img width="400" height="250" alt="cpyannn " src="https://github.com/user-attachments/assets/e853defb-ac51-4da1-a141-6957eb2de6e4" />
 </p>
-<p align="center"><img width="700" height="400" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/ba563b83-dbee-4efe-a420-f09dc35ee09a" /></p>
+<p align="center"><img width="600" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/ba563b83-dbee-4efe-a420-f09dc35ee09a" /></p>
 
 Perintah-perintah dasar MikroTik melalui terminal:
 
