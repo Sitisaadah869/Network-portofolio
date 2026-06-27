@@ -32,23 +32,3 @@ Pastikan status DHCP Client sudah Bound.
 
 8). Buka New Terminal, ketik ping google.com atau ping 8.8.8.8, jika sudah connect berarti MikroTik sudah terhubung ke internet.
 
-
-Agar PC/Laptop mendapatkan internet, bisa mengikuti cara-cara berikut:
-
-1). Buka IP-Address klik + masukkan ip 192.168.10.1/24 ether2, jika sudah klik Apply dan Ok.
-<p align="center">
-<img width="700" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/083f04b8-8baf-4ec9-93f4-4ab15ec4b10a" /></p>
-
-2). Buka IP-DHCP Server, klik DHCP-Setup, Interface "ether2", lalu klik Next sampai selesai.
-<p align="center">
-<img width="700" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/fa944193-27dc-4e5e-a4c6-77c60398553a" /></p>
-
-3). Buka Network & Internet Setting double klik ethernet yang akan dihubungkan, lalu ikuti gambar di bawah ini.
-<p align="center">
-<img width="500" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/5ef84448-bcb7-43bd-a834-6f6237ea8926" /></p>
-<p align="center">
-<img width="500" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/e109d235-0468-4f6b-9ed9-9403efba62fa" /></p>
-
-4). Buka CMD (Command Prompt), lalu ketik ping google.com atau ping 8.8.8.8
-<p align="center">
-<img width="500" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/6896f3b6-ec22-4a3b-90a0-131878847cbf" /></p>
