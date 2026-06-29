@@ -13,20 +13,23 @@ Langkah-langkah:
 
 3). Pilih Interface WLAN1, lalu klik tanda centang (enable).
 <p align="center">
-<img width="600" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/7b335662-4b30-4af1-8bc1-8c7dda4f902c" /></p>
+<img width="800" height="135" alt="WhatsApp Image 2026-06-29 at 12 23 38" src="https://github.com/user-attachments/assets/ed96dc9f-52fb-4e8f-949a-d423d61aefe8" />
+</p>
 
 4). Klik Security Profile, isi WPA-2 dengan Password WIFI.
 <p align="center">
-<img width="600" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/c3e192f5-a123-4781-91b2-8035e6c32696" />
+<img width="525" alt="WhatsApp Image 2026-06-29 at 12 23 14" src="https://github.com/user-attachments/assets/f7fafb3b-d3af-43a8-8651-dc3236fb6511" />
 </p>
 5). Buka Interface WLAN ubah default menjadi Profile1, Lalu scan dan connect.
 <p align="center">
-<img width="600" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/16fb970b-c36b-4570-b7a7-114d29d5acb7" /></p>
+<img width="550" alt="WhatsApp Image 2026-06-29 at 12 22 51" src="https://github.com/user-attachments/assets/d0275329-cb82-42f5-a6e5-f412fa30a2ed" />
+</p>
 
 6). Klik IP-DHCP Client, klik New, masukkan interface WLAN1, lalu klik Apply dan Ok.
 Pastikan status DHCP Client sudah Bound.
 <p align="center">
-<img width="600" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/dd458230-be33-4460-9272-7e03f8584c8d" /></p>
+<img width="600" alt="WhatsApp Image 2026-06-29 at 12 22 27" src="https://github.com/user-attachments/assets/be9eba23-a456-44bc-bd83-fd893da11f36" />
+</p>
 
 7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah inni.
 <p align="center">
@@ -74,20 +77,21 @@ Langkah-langkah:
 
 3). Pilih Interface WLAN1, lalu klik tanda centang (enable).
 <p align="center">
-<img width="600" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/7b335662-4b30-4af1-8bc1-8c7dda4f902c" /></p>
+<img width="800" alt="WhatsApp Image 2026-06-29 at 12 23 38" src="https://github.com/user-attachments/assets/ed96dc9f-52fb-4e8f-949a-d423d61aefe8" /></p>
 
 4). Klik Security Profile, isi WPA-2 dengan Password WIFI.
 <p align="center">
-<img width="600" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/c3e192f5-a123-4781-91b2-8035e6c32696" />
+<img width="525" alt="WhatsApp Image 2026-06-29 at 12 23 14" src="https://github.com/user-attachments/assets/f7fafb3b-d3af-43a8-8651-dc3236fb6511" />
 </p>
 5). Buka Interface WLAN ubah default menjadi Profile1, Lalu scan dan connect.
 <p align="center">
-<img width="600" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/16fb970b-c36b-4570-b7a7-114d29d5acb7" /></p>
+<img width="550" alt="WhatsApp Image 2026-06-29 at 12 22 51" src="https://github.com/user-attachments/assets/d0275329-cb82-42f5-a6e5-f412fa30a2ed" /></p>
 
 6). Klik IP-DHCP Client, klik New, masukkan interface WLAN1, lalu klik Apply dan Ok.
 Pastikan status DHCP Client sudah Bound.
 <p align="center">
-<img width="600" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/dd458230-be33-4460-9272-7e03f8584c8d" /></p>
+<img width="600" alt="WhatsApp Image 2026-06-29 at 12 22 27" src="https://github.com/user-attachments/assets/be9eba23-a456-44bc-bd83-fd893da11f36" />
+</p>
 
 7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah inni.
 <p align="center">
