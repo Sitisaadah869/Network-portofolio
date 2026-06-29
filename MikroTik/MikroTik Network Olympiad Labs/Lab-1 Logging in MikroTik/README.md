@@ -2,7 +2,7 @@ Ada beberapa cara untuk login ke perangkat Mikrotik, yaitu:
 1. Login Menggunakan WinBox
 Winbox adalah aplikasi yang digunakan untuk mengelola mikrotik melalui GUI (Graphical User Interface).Pengguna dapat login menggunakan MAC Address atau IP Address router.
 
-Download WinBox (https://mikrotik.com/download/winbox)
+Download WinBox https://mikrotik.com/download/winbox
 
 Langkah-langkah:
 1). Hubungkan komputer ke router MikroTik menggunakan kabel LAN.
