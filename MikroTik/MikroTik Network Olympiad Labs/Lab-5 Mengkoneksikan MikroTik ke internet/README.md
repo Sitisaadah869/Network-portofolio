@@ -48,7 +48,7 @@ Pastikan status DHCP Client sudah Bound.
 <p align="center">
 <img width="868" height="372" alt="WhatsApp Image 2026-06-29 at 11 45 24 (1)" src="https://github.com/user-attachments/assets/763eb4c0-5a0e-46a6-9ec1-5d24b7f92da3" /></p>
 
-11). Buka Network & internet settings, lalu ikti gambar di bawah ini.
+11). Buka Network & internet settings, lalu ikuti gambar di bawah ini.
 <p align="center">
 <img width="440" alt="WhatsApp Image 2026-06-29 at 11 45 25" src="https://github.com/user-attachments/assets/959eb18a-761a-42ca-a039-77e03ee3e6aa" /></p>
 <p align="center">
@@ -104,7 +104,7 @@ Pastikan status DHCP Client sudah Bound.
 <p align="center">
 <img width="528" height="380" alt="WhatsApp Image 2026-06-29 at 11 45 24" src="https://github.com/user-attachments/assets/edbcfc52-433c-42d9-84c1-a6bd2a2babd6" /></p>
 
-10). Buka Network & internet settings, lalu ikti gambar di bawah ini.
+10). Buka Network & internet settings, lalu ikuti gambar di bawah ini.
 <p align="center">
 <img width="440" alt="WhatsApp Image 2026-06-29 at 11 45 25" src="https://github.com/user-attachments/assets/959eb18a-761a-42ca-a039-77e03ee3e6aa" /></p>
 <p align="center">
