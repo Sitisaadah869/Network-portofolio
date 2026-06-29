@@ -9,16 +9,17 @@ Langkah-langkah:
 
 2). Buka aplikasi WinBox.
 
-<img width="120" height="120" alt="winbox" src="https://github.com/user-attachments/assets/d086fa28-06c9-45a7-9da4-b77a7db539ab" />
+<img width="100" alt="winbox" src="https://github.com/user-attachments/assets/d086fa28-06c9-45a7-9da4-b77a7db539ab" />
 
 <p align="center">   
-<img width="350 height="200" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/288d9359-4e84-425e-ae1c-e39eb305d6a3" /></p>
+<img width="700" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/a0272e79-6c09-4d05-bbcb-a8c9ef3b6ba4" />
+</p>
 
 3). Klik MAC Address atau klik IP Address.
 
 4). Login "admin" Password kosongkan, lalu klik connect.
 <p align="center">
-<img width="400" height="225" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/2b1ce1b6-4879-4f8c-9a79-2994d27e00c3" /></p>
+<img width="700" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/2b1ce1b6-4879-4f8c-9a79-2994d27e00c3" /></p>
 
 3. Login Menggunakan PuTTy
 PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) menggunakan protokol SSH.Metode ini cocok untuk konfigurasi menggunakan perintah-perintah terminal.
@@ -27,7 +28,7 @@ PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) me
 
 2). Buka Aplikasi PuTTy
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/e9a81c00-7bb8-4d64-aa50-eab0f1053c3c" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/e9a81c00-7bb8-4d64-aa50-eab0f1053c3c" />
 
 3). Ketik IP Address 192.168.88.1 (IP default MikroTik).
 
@@ -46,16 +47,16 @@ Langkah-langkah:
 
 2). Buka Aplikasi Chrome 
 
-<img width="120" height="120" alt="Google_Chrome_icon_(February_2022) svg" src="https://github.com/user-attachments/assets/cfb32274-a867-4597-95fb-724f7f5b398b" />
+<img width="120" alt="Google_Chrome_icon_(February_2022) svg" src="https://github.com/user-attachments/assets/cfb32274-a867-4597-95fb-724f7f5b398b" />
 
 3). Pada URL ketik 192.168.88.1 (IP default MikroTik).
 <p align="center">
-<img width="350" height="200" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/53767499-a009-4139-b87d-4819d68fb81a" /></p>
+<img width="700" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/53767499-a009-4139-b87d-4819d68fb81a" /></p>
 
 4). Lalu klik enter.
 <p align="center">
-<img width="400" height="225" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/ef1f6290-563e-4c6c-a24d-510cadd5664b" /></p>
+<img width="700" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/ef1f6290-563e-4c6c-a24d-510cadd5664b" /></p>
 
 5). Login "admin" Password kosongkan, lalu klik login.
  <p align="center">
-   <img width="400" height="225" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/56cfac9a-2ecd-49fb-b1df-e042d92215b9" /></p>
+   <img width="700" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/56cfac9a-2ecd-49fb-b1df-e042d92215b9" /></p>
