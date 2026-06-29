@@ -60,3 +60,6 @@ Langkah-langkah:
 5). Login "admin" Password kosongkan, lalu klik login.
  <p align="center">
    <img width="700" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/56cfac9a-2ecd-49fb-b1df-e042d92215b9" /></p>
+
+Kesimpulan:
+Melalui praktikum ini dapat diketahui bahwa login ke MikoTik bisa dilakukan dengan beberapa cara seperti menggunakan WinBox, puTTy, dan WebFig.
