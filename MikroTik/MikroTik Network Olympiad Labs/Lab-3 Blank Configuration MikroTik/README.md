@@ -6,10 +6,12 @@ Langkah-langkah:
 
 2). Pilih menu System-Reset Configuration, lalu klik No Default Configuration, dan klik Reset Configuration.
 <p align="center">
-<img width="400" height="250" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/6831975b-f999-4eb5-b1f1-700d7355479e" /></p>
+<img width="400" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/6831975b-f999-4eb5-b1f1-700d7355479e" /></p>
 
 3). Jika sudah melakukan reset configuration, login kembali ke WinBox dengan menggunakan MAC Address.
 <p align="center">
-<img width="400" height="250" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/29460146-535d-41a1-89d4-e6e94eb7cf4e" /></p>
+<img width="400" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/29460146-535d-41a1-89d4-e6e94eb7cf4e" /></p>
 
+Kesimpuan:
 
+Blank configuration digunakan untuk memulai konfigurasi MikroTik dari awal tanpa pengaturan default.
