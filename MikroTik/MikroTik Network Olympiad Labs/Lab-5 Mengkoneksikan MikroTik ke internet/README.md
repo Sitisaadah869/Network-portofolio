@@ -36,4 +36,33 @@ Pastikan status DHCP Client sudah Bound.
 <img width="700" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/d810c273-7e4b-497c-ba22-2e7d290d8d0c" /></p>
 
 8). Buka New Terminal, ketik ping google.com atau ping 8.8.8.8, jika sudah connect berarti MikroTik sudah terhubung ke internet.
+<p align="center">
+<img width="596" height="408" alt="WhatsApp Image 2026-06-29 at 11 34 44" src="https://github.com/user-attachments/assets/e12cec5a-7db5-4521-b253-d4348578c99e" /></p>
 
+9). Masukan IP Address 192.168.10.1/24 pada ether2
+
+<p align="center">
+<img width="528" height="380" alt="WhatsApp Image 2026-06-29 at 11 45 24" src="https://github.com/user-attachments/assets/edbcfc52-433c-42d9-84c1-a6bd2a2babd6" /></p>
+
+
+10). Buka menu IP, klik DHCP Server, klik DHCP setup, pilih interface ether2 lalu klik next sampai selesai.
+<p align="center">
+<img width="868" height="372" alt="WhatsApp Image 2026-06-29 at 11 45 24 (1)" src="https://github.com/user-attachments/assets/763eb4c0-5a0e-46a6-9ec1-5d24b7f92da3" /></p>
+
+11). Buka Network & internet settings, lalu ikti gambar di bawah ini.
+<p align="center">
+<img width="440" alt="WhatsApp Image 2026-06-29 at 11 45 25" src="https://github.com/user-attachments/assets/959eb18a-761a-42ca-a039-77e03ee3e6aa" /></p>
+<p align="center">
+<img width="800" alt="WhatsApp Image 2026-06-29 at 11 45 25 (1)" src="https://github.com/user-attachments/assets/f17e023b-02ba-420b-ba12-4759b67c07ac" /></p>
+<p align="center">
+<img width="396" alt="WhatsApp Image 2026-06-29 at 11 45 25 (2)" src="https://github.com/user-attachments/assets/5a5fb7f3-1634-4d74-a942-13ad1a344515" /></p>
+
+12). Buka CMD (Command Prompt), lalu ping ke 8.8.8.8
+<p align="center">
+<img width="700" alt="WhatsApp Image 2026-06-29 at 11 45 26 (1)" src="https://github.com/user-attachments/assets/8c7e7c19-7ff0-4b8e-875a-b787a4ea6450" /></p>
+
+B. Sumber internet IP Statis
+
+Topologi:
+<p align="center">
+<img width="350" alt="topologi2 drawio" src="https://github.com/user-attachments/assets/d76fce7b-f7de-4e68-9d06-adcc94b86ab2" /></p>
