@@ -13,5 +13,4 @@ Langkah-langkah:
 <img width="400" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/29460146-535d-41a1-89d4-e6e94eb7cf4e" /></p>
 
 Kesimpuan:
-
 Blank configuration digunakan untuk memulai konfigurasi MikroTik dari awal tanpa pengaturan default.
