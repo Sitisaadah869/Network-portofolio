@@ -27,9 +27,17 @@ a. IP Address 192.168.88.1/24.
 b. Username "admin", password kosong.
 
 c. DHCP Client aktif pada ether1
+<p align="center">
+<img width="600" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/9be6d386-cb63-4a5e-9950-8d1d7d2c17e7" />
+</p>
+d. Bridge ports untuk menggabungkan beberapa interface menjadi satu segmen jaringan.
+<p align="center">
+<img width="600" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/d2a9de2a-becb-45d2-be82-0691e86aa1ea" />
+</p>
 
-
-
-d. NAT untuk akses ke internet.
-
-e. DNS untuk menerjemahkan nama domain menjadi alamat IP.
+e. NAT untuk menghubungkan jaringan lokal ke internet.
+<p align="center">
+<img width="600" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/dbd9db63-16cf-4ded-b592-7d600a80dd54" />
+</p>
+Kesimpulan:
+Default Configuration pada MikroTik berisi pengaturan awal yang membantu saat mulai melakukan konfigurasi.
