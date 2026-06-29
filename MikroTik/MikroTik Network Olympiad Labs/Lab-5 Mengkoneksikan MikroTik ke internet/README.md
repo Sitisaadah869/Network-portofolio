@@ -31,11 +31,13 @@ Pastikan status DHCP Client sudah Bound.
 <img width="600" alt="WhatsApp Image 2026-06-29 at 12 22 27" src="https://github.com/user-attachments/assets/be9eba23-a456-44bc-bd83-fd893da11f36" />
 </p>
 
-7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah inni.
+7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah ini.
 <p align="center">
-<img width="700" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/e2976095-d1ed-4624-97fa-cd43462304e2" /></p>
+<img width="600" alt="WhatsApp Image 2026-06-29 at 12 32 20 (1)" src="https://github.com/user-attachments/assets/8b9028b2-cf49-4f88-923a-6a4c62db4a71" />
+</p>
 <p align="center">
-<img width="700" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/d810c273-7e4b-497c-ba22-2e7d290d8d0c" /></p>
+<img width="550" alt="WhatsApp Image 2026-06-29 at 12 36 26" src="https://github.com/user-attachments/assets/0ae1a15f-ffc5-454a-99ad-002a80fecde5" />
+</p>
 
 8). Buka New Terminal, ketik ping google.com atau ping 8.8.8.8, jika sudah connect berarti MikroTik sudah terhubung ke internet.
 <p align="center">
@@ -93,11 +95,12 @@ Pastikan status DHCP Client sudah Bound.
 <img width="600" alt="WhatsApp Image 2026-06-29 at 12 22 27" src="https://github.com/user-attachments/assets/be9eba23-a456-44bc-bd83-fd893da11f36" />
 </p>
 
-7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah inni.
+7). Buka IP-Firewall NAT, sesuaikan isi dengan gambar di bawah ini.
 <p align="center">
-<img width="700" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/e2976095-d1ed-4624-97fa-cd43462304e2" /></p>
+<img width="600" alt="WhatsApp Image 2026-06-29 at 12 22 27" src="https://github.com/user-attachments/assets/be9eba23-a456-44bc-bd83-fd893da11f36" />
+</p>
 <p align="center">
-<img width="700" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/d810c273-7e4b-497c-ba22-2e7d290d8d0c" /></p>
+<img width="550" alt="WhatsApp Image 2026-06-29 at 12 36 26" src="https://github.com/user-attachments/assets/0ae1a15f-ffc5-454a-99ad-002a80fecde5" /></p>
 
 8). Buka New Terminal, ketik ping google.com atau ping 8.8.8.8, jika sudah connect berarti MikroTik sudah terhubung ke internet.
 <p align="center">
