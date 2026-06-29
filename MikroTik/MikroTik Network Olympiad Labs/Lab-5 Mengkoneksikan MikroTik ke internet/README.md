@@ -1,5 +1,10 @@
 Menghubungkan MikroTik ke internet menggunakan WLAN 
 
+A. Sumber internet IP Dynamic
+Topologi:
+<p align="center">
+<img width="421" alt="topologi1 drawio" src="https://github.com/user-attachments/assets/4bbefe58-5b75-4ebf-a51b-bc49768db79b" />
+</p>
 Langkah-langkah:
 
 1). Login ke MikroTik menggunakan WinBox.
