@@ -59,8 +59,12 @@ Klik Apply dan Ok
 <p align="center">
 <img width="800" alt="WhatsApp Image 2026-06-29 at 11 45 25 (1)" src="https://github.com/user-attachments/assets/f17e023b-02ba-420b-ba12-4759b67c07ac" /></p>
 <p align="center">
-
+<img width="396" alt="WhatsApp Image 2026-06-29 at 11 45 25 (2)" src="https://github.com/user-attachments/assets/5a5fb7f3-1634-4d74-a942-13ad1a344515" /></p>
 
 5). Buka CMD (Command Prompt) lalu lakukan ping.
 <p align="center">
 <img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 55" src="https://github.com/user-attachments/assets/2a86870f-8746-4dc9-8a2d-c6a85f6d1836" /></p>
+
+Kesimpulan:
+
+Quickset adalah fitur yang memudahkan konfigurasi dasar router dalam satu halaman tanpa harus mengatur setiap menu secara manual.
