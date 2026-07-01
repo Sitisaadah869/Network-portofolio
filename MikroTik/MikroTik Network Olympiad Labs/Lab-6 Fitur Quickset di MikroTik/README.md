@@ -29,7 +29,7 @@ Action= masquerade
 <p align="center">
 <img width="800" alt="WhatsApp Image 2026-06-29 at 11 45 25 (1)" src="https://github.com/user-attachments/assets/f17e023b-02ba-420b-ba12-4759b67c07ac" /></p>
 <p align="center">
-<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 54 (3)" src="https://github.com/user-attachments/assets/9e4d3cc6-8970-4fd3-8131-953c95dc891d" /></p>
+<img width="500" alt="WhatsApp Image 2026-07-01 at 18 30 54 (3)" src="https://github.com/user-attachments/assets/9e4d3cc6-8970-4fd3-8131-953c95dc891d" /></p>
 
   6). Buka CMD (Command Prompt) lalu lakukan ping.
 <p align="center">
