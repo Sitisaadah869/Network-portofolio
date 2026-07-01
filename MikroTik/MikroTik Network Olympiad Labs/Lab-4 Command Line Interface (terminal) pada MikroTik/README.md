@@ -23,8 +23,8 @@ Perintah-perintah dasar MikroTik melalui terminal:
 
 
 3). Membuat user dan password baru dengan hak akses full. 
-
-
+<p align="center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 23" src="https://github.com/user-attachments/assets/860d2c30-d69e-4f99-b947-6d59c8a621b1" /></p>
 
 4). Melihat User.
 <p align="center">
@@ -57,3 +57,46 @@ Perintah-perintah dasar MikroTik melalui terminal:
 <p align="center">
 <img width="700" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/b9a7f41c-c30d-4be0-8114-66f23d9b3bda" /></p>
 
+11). Melihat konfigurasi DHCP-Client.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 21" src="https://github.com/user-attachments/assets/2eab13c8-7f35-4ad9-9d43-b033740b798a" /></p>
+
+12). Melihat penggunaan CPU dan RAM.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 21 (1)" src="https://github.com/user-attachments/assets/0348627f-7dfb-4f6b-b985-fb1ccd6a5790" /></p>
+
+13). Melihat port dan status layanan akses.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 21 (2)" src="https://github.com/user-attachments/assets/be8528d8-1666-41b3-a945-591058a47405" /></p>
+
+14). Melihat tipe hardware, nomor seri, dan versi firmware.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 22" src="https://github.com/user-attachments/assets/5706d8c9-a71e-42a5-b293-5f9b7cf7b810" /></p>
+
+15). Melihat daftar fitur yang aktif.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 22 (1)" src="https://github.com/user-attachments/assets/dcfc01d7-6a21-47cb-a7aa-6c8729f4819c" /></p>
+
+16). Melihat daftar SSID, MAC Address, frekuensi, dan kekuatan sinyal yang berada di sekitar kita. 
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 23 (1)" src="https://github.com/user-attachments/assets/eb4532a4-a2d8-4bda-895d-95733b9899b7" /></p>
+
+17). Kembali ke direktori sebelumnya.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 23 (2)" src="https://github.com/user-attachments/assets/d9af0c82-a4af-443f-a872-e1dd43e5a741" /></p>
+
+18). Melakukan ping
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 24" src="https://github.com/user-attachments/assets/1b4b793f-828b-42e1-8130-e238e4bf5c13" /></p>
+
+19). Menampilkan status Wireless
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 24 (1)" src="https://github.com/user-attachments/assets/99a12bd1-4c01-44dc-8992-f282e04d76bf" /></p>
+
+20). Menampilkan Routing Table.
+<p align=center">
+<img width="700" alt="WhatsApp Image 2026-07-01 at 18 30 25" src="https://github.com/user-attachments/assets/e0b26a33-162a-4b39-b540-6380d452892f" /></p>
+
+Kesimpulan:
+
+Command Line Interface merupakan sebuah perintah untuk mengelola dan mengonfigurasi router.
