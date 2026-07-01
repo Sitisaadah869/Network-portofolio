@@ -1,4 +1,4 @@
-Fitur Quicksetdi MikroTik merupakan sebuah menu praktis di MikroTik utuk mengkonfigurasi router dalam satu halaman.
+Fitur Quickset di MikroTik merupakan sebuah menu praktis di MikroTik utuk mengkonfigurasi router dalam satu halaman.
 
 A. Sumber Internet IP Static
 
