@@ -25,7 +25,7 @@ Apply lalu OK
 <p align="center">
 <img width="536" alt="WhatsApp Image 2026-07-04 at 11 31 08" src="https://github.com/user-attachments/assets/492b2c9a-2acc-4739-94af-639f75fcb652" /></p>
 <p align="center">
-<img width="400" alt="WhatsApp Image 2026-07-04 at 11 31 09 (1)" src="https://github.com/user-attachments/assets/9b740dde-fdcc-4c84-8adf-8c254fc332bd" /></p>
+<img width="800" alt="WhatsApp Image 2026-07-04 at 11 31 09 (1)" src="https://github.com/user-attachments/assets/9b740dde-fdcc-4c84-8adf-8c254fc332bd" /></p>
 
 5). Buka New Terminal ketik ping 8.8.8.8, pastikan sudah connect
 <p align="center">
@@ -37,7 +37,7 @@ Chain: srcnat
 Out.Interface: wlan1
 Action: masquerade
 <p align="center">
-<img width="600" alt="WhatsApp Image 2026-07-04 at 11 31 09" src="https://github.com/user-attachments/assets/c13dafbf-2487-41a0-8277-c8cbafe7d41c" /></p>
+<img width="800" alt="WhatsApp Image 2026-07-04 at 11 31 09" src="https://github.com/user-attachments/assets/c13dafbf-2487-41a0-8277-c8cbafe7d41c" /></p>
 
 7). Buka IP_Address, tambahkan IP 192.168.20.1/24 di ether2 
 <p align="center">
