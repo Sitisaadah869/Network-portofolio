@@ -8,7 +8,7 @@ Range IP Private (IPv4):
 <p>Kelas A: 10.0.0.0 - 10.255.255.255</p>
 <p>Kelas B: 172.16.0.0 - 172.31.255.255</p>
 <p>Kelas C: 192.168.0.0 - 192.168.255.255</p>
-Yang tidak termasuk ke dalam Range IP Private merupakan IP Public.
+<p>Yang tidak termasuk ke dalam Range IP Private merupakan IP Public.</p>
 
 Kesimpulan:
 
