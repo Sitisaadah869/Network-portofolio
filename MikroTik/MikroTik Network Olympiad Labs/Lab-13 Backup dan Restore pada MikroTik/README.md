@@ -16,7 +16,8 @@ Langkah-langkah:
 <p>System>>Reset Configuration</p>
 <p>Ceklis: Do Not Backup, No Default Configuration</p>
 <P align="center">
-<img width="400" alt="WhatsApp Image 2026-07-06 at 09 11 10 (1)" src="https://github.com/user-attachments/assets/ac2d33e5-3fbe-4cba-9248-82ea01c55f79" /></P>
+<img width="500" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/0a2638a7-40f6-45c6-8237-8469df14a52c" />
+</p>
 
 4). Login kembali ke MikroTik menggunakan Winbox
 
