@@ -31,7 +31,7 @@ Chain: srcnat Out.Interface: wlan1 Action: masquerade
 
 6). Pengujian
 
-<p align="center"><img width="612" alt="WhatsApp Image 2026-07-26 at 19 24 17 (3)" src="https://github.com/user-attachments/assets/dca45c96-0506-45c3-bc2b-35be2c7353d3" /></p>
+<p align="center"><img width="500" alt="WhatsApp Image 2026-07-26 at 19 24 17 (3)" src="https://github.com/user-attachments/assets/dca45c96-0506-45c3-bc2b-35be2c7353d3" /></p>
 
 
 Kesimpulan:
