@@ -32,8 +32,8 @@ dst-address: 0.0.0.0/0
 
 gateway: 10.47.117.50
 <div style="display: flex; gap: 10px;">
-<img width="600" alt="WhatsApp Image 2026-07-26 at 19 51 16" src="https://github.com/user-attachments/assets/06decd16-c39b-433b-b3fd-8d98b765c3f2" />
-<img width="600" alt="WhatsApp Image 2026-07-26 at 19 51 16 (1)" src="https://github.com/user-attachments/assets/12c0706f-8b35-4b06-8b3a-b7668596ae28" /></div>
+<img width="400" alt="WhatsApp Image 2026-07-26 at 19 51 16" src="https://github.com/user-attachments/assets/06decd16-c39b-433b-b3fd-8d98b765c3f2" />
+<img width="400" alt="WhatsApp Image 2026-07-26 at 19 51 16 (1)" src="https://github.com/user-attachments/assets/12c0706f-8b35-4b06-8b3a-b7668596ae28" /></div>
 
 apply, ok
 
