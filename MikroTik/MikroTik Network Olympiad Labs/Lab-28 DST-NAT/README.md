@@ -40,5 +40,5 @@ apply, ok
 <p align="center">
 <img width="600" alt="WhatsApp Image 2026-07-26 at 20 06 45 (2)" src="https://github.com/user-attachments/assets/9e853f9b-1e2a-4b0d-a4f7-677c71797e44" /></p>
 <div style="display: flex; gap: 10px;">
-<img width="500" alt="WhatsApp Image 2026-07-26 at 20 06 45 (3)" src="https://github.com/user-attachments/assets/a2fbc57c-17b8-43d2-8b55-2eb7883e2438" />
-<img width="500" alt="WhatsApp Image 2026-07-26 at 20 06 46" src="https://github.com/user-attachments/assets/b44c6f08-8ddc-497c-9d98-98ade668e2e0" /></div>
+<img width="400" alt="WhatsApp Image 2026-07-26 at 20 06 45 (3)" src="https://github.com/user-attachments/assets/a2fbc57c-17b8-43d2-8b55-2eb7883e2438" />
+<img width="300" alt="WhatsApp Image 2026-07-26 at 20 06 46" src="https://github.com/user-attachments/assets/b44c6f08-8ddc-497c-9d98-98ade668e2e0" /></div>
