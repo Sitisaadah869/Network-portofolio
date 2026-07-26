@@ -32,10 +32,11 @@ Ubah opsi ARP: enable menjadi "Reply-only"
 
 5). Pengujian
 Ubah IP di PC client menjadi 192.168.20.2/24, lalu lakukan ping
-
+<div style="display: flex; gap: 10px;">
 <img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 12 (2)" src="https://github.com/user-attachments/assets/a00ef262-e25d-45ae-8e33-1662588594ca" />
-<img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 12 (1)" src="https://github.com/user-attachments/assets/beb11318-6440-4e41-b344-2e032a2bcee5" />
+<img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 12 (1)" src="https://github.com/user-attachments/assets/beb11318-6440-4e41-b344-2e032a2bcee5" /></div>
 
 Ubah IP di PC client menjadi 192.168.20.2/24 (selain ip yang di masukan di ARP), lalu lakukan ping kembali
+<div style="display: flex; gap: 10px;">
 <img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 13" src="https://github.com/user-attachments/assets/48139d04-7490-42f7-96a0-e011e248b630" />
-<img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 12 (3)" src="https://github.com/user-attachments/assets/e5fae8ab-52e2-4ace-a68d-05dd7c5b8dc9" />
+<img width="400" alt="WhatsApp Image 2026-07-26 at 20 35 12 (3)" src="https://github.com/user-attachments/assets/e5fae8ab-52e2-4ace-a68d-05dd7c5b8dc9" /></div>
