@@ -17,8 +17,8 @@ Interface: ether2
 3). Buka menu IP-DHCP Client, klik New lalu ubah Interface>>Wlan1, Apply lalu Ok, Pastikan sudah ada tulisan Bound
 
 4). Buka menu IP>>DHCP Server, klik DHCP setup, pilih interface ether2 lalu klik next sampai muncul tulisan DNS, isi DNS dengan 8.8.8.8 dan 8.8.4.4 lalu klik next sampai selesai. 
-
-<img width="300" alt="WhatsApp Image 2026-07-26 at 19 24 15" src="https://github.com/user-attachments/assets/1008d285-4b4d-46f1-b1e8-6f3e106d60c0" />
+<p align="center">
+<img width="400" alt="WhatsApp Image 2026-07-26 at 19 24 15" src="https://github.com/user-attachments/assets/1008d285-4b4d-46f1-b1e8-6f3e106d60c0" /></p>
 
 <div style="display: flex; gap: 10px;"><img width="400" alt="WhatsApp Image 2026-07-26 at 19 24 16" src="https://github.com/user-attachments/assets/08b0d5b5-d82d-490a-9d15-198ad5fc1f9c" />
 <img width="400" alt="WhatsApp Image 2026-07-26 at 19 24 17 (2)" src="https://github.com/user-attachments/assets/abf3ba0f-8c87-492f-b165-86a2b4d6f132" /></div>
