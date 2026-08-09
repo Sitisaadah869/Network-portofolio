@@ -38,7 +38,7 @@ PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) me
 <div style="display: flex; gap: 10px;">
 <img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57" src="https://github.com/user-attachments/assets/1e3375e0-60d9-425b-9e5b-688dfb9212d9" />
 
-<img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57 (1)" src="https://github.com/user-attachments/assets/21ed61c6-354a-4222-b1a9-679f99455b9c" />
+<img width="350" alt="WhatsApp Image 2026-08-09 at 10 12 57 (1)" src="https://github.com/user-attachments/assets/21ed61c6-354a-4222-b1a9-679f99455b9c" />
 
 7). Klik Accept
 
