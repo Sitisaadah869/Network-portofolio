@@ -30,13 +30,21 @@ PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) me
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/e9a81c00-7bb8-4d64-aa50-eab0f1053c3c" />
 
-3). Ketik IP Address 192.168.88.1 (IP default MikroTik).
+3). Ketik IP Address 192.168.10.1 
 
-4). Ketik port 23 (port default Telnet).
+4). Ketik port 22 
 
 5). Lalu klik open.
+<p align="center">
+<img width="444" alt="WhatsApp Image 2026-08-09 at 10 12 57" src="https://github.com/user-attachments/assets/1e3375e0-60d9-425b-9e5b-688dfb9212d9" /></p>
 
 6). Login "admin" Password kosongkan, lalu klik enter.
+<p align="center">
+<img width="400" alt="WhatsApp Image 2026-08-09 at 10 12 57 (1)" src="https://github.com/user-attachments/assets/21ed61c6-354a-4222-b1a9-679f99455b9c" /></p>
+
+7). Klik Accept
+<p align="center">
+<img width="450" alt="WhatsApp Image 2026-08-09 at 10 12 58" src="https://github.com/user-attachments/assets/287a0b6e-3490-4079-931e-50f01d664202" /></p>
 
 3. Login Menggunakan WebFig
 WebFig adalah utilitas berbasis web milik MikroTik yang berfungsi untuk memantau, dan mengonfigurasi pada router MikroTik.
