@@ -19,7 +19,7 @@ Langkah-langkah:
 
 4). Login "admin" Password kosongkan, lalu klik connect.
 <p align="center">
-<img width="700" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/2b1ce1b6-4879-4f8c-9a79-2994d27e00c3" /></p>
+<img width="500" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/2b1ce1b6-4879-4f8c-9a79-2994d27e00c3" /></p>
 
 3. Login Menggunakan PuTTy
 PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) menggunakan protokol SSH.Metode ini cocok untuk konfigurasi menggunakan perintah-perintah terminal.
@@ -60,15 +60,15 @@ Langkah-langkah:
 
 3). Pada URL ketik 192.168.88.1 (IP default MikroTik).
 <p align="center">
-<img width="700" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/53767499-a009-4139-b87d-4819d68fb81a" /></p>
+<img width="500" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/53767499-a009-4139-b87d-4819d68fb81a" /></p>
 
 4). Lalu klik enter.
 <p align="center">
-<img width="700" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/ef1f6290-563e-4c6c-a24d-510cadd5664b" /></p>
+<img width="500" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/ef1f6290-563e-4c6c-a24d-510cadd5664b" /></p>
 
 5). Login "admin" Password kosongkan, lalu klik login.
  <p align="center">
-   <img width="700" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/56cfac9a-2ecd-49fb-b1df-e042d92215b9" /></p>
+   <img width="500" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/56cfac9a-2ecd-49fb-b1df-e042d92215b9" /></p>
 
 Kesimpulan:
 
