@@ -35,11 +35,10 @@ PuTTy digunakan untuk mengakses MikroTik melalui Command Line Interface (CLI) me
 4). Ketik port 22 
 
 5). Lalu klik open.
-<p align="center">
-<img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57" src="https://github.com/user-attachments/assets/1e3375e0-60d9-425b-9e5b-688dfb9212d9" /></p>
+<div style="display: flex; gap: 10px;">
+<img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57" src="https://github.com/user-attachments/assets/1e3375e0-60d9-425b-9e5b-688dfb9212d9" />
 
-<p align="center">
-<img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57 (1)" src="https://github.com/user-attachments/assets/21ed61c6-354a-4222-b1a9-679f99455b9c" /></p>
+<img width="300" alt="WhatsApp Image 2026-08-09 at 10 12 57 (1)" src="https://github.com/user-attachments/assets/21ed61c6-354a-4222-b1a9-679f99455b9c" />
 
 7). Klik Accept
 
